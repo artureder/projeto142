@@ -1,0 +1,32 @@
+.heading {
+    padding: 20px;
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note {
+    font-size: 25px;
+    color: black;
+}
+
+body {
+    background-size: cover;
+}
+
+.div_nomedamusica {
+    float: center;
+}
+
+#nomedamusica {
+    font-size: 23px;
+    margin: 15px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 30px;
+
+
+}
